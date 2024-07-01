@@ -2,7 +2,6 @@
 
 This tutorial will introduce how to run MutSeq to generate/introduce genetic/point mutations in a given DNA sequence.
 
-#### 
 #### usage: 
 ```MutSeq [-h] [-b] -I INPUTPATH -f FILENAME -O OUTPATH -o OUTFILE``` 
 
