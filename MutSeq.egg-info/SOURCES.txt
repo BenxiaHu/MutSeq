@@ -1,0 +1,12 @@
+setup.py
+MutSeq/MutSeq.py
+MutSeq/__init__.py
+MutSeq/_main__.py
+MutSeq/_version.py
+MutSeq.egg-info/PKG-INFO
+MutSeq.egg-info/SOURCES.txt
+MutSeq.egg-info/dependency_links.txt
+MutSeq.egg-info/entry_points.txt
+MutSeq.egg-info/not-zip-safe
+MutSeq.egg-info/requires.txt
+MutSeq.egg-info/top_level.txt
