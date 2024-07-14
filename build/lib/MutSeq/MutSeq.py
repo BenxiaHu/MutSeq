@@ -53,7 +53,7 @@ def main():
     print('###Parameters:')
     print(args)
     print('###Parameters')
-    MutSeq(args.inputpath,args.filename,args.outpath,args.outfile,args.version)
+    MutSeq(args.inputpath,args.filename,args.outpath,args.outfile)
 
 if __name__ == '__main__':
     main()

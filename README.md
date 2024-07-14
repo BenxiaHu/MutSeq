@@ -20,3 +20,12 @@ optional arguments:
 | -f | FILENAME   | --filename    | FILENAME |name of input file |
 | -O | OUTPATH    | --outpath |  OUTPATH |path of output file  |  
 | -o | OUTFILE    | --outfile |  OUTFILE |name of output file  |
+
+#### install
+https://pypi.org/project/MutSeq/   
+
+pip install MutSeq   
+
+
+
+

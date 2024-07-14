@@ -13,7 +13,7 @@ setup(
     long_description="generate in silicon point mutations in each position in a given DNA sequence",
     url="https://pypi.org/project/MutSeq/",
     entry_points = {
-        "console_scripts": ['MutSeq = MutSeq.MutSeq:main',]
+        "console_scripts": ['MutSeq = MutSeq:main',]
         },
     python_requires = '>=3.6',
     packages = ['MutSeq'],

@@ -1,7 +1,8 @@
+README.md
 setup.py
 MutSeq/MutSeq.py
 MutSeq/__init__.py
-MutSeq/_main__.py
+MutSeq/__main__.py
 MutSeq/_version.py
 MutSeq.egg-info/PKG-INFO
 MutSeq.egg-info/SOURCES.txt
